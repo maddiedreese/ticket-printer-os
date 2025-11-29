@@ -248,8 +248,9 @@ sudo journalctl -u ticket-printer -f
 ## Requirements
 
 - Python 3.7+
-- Netum 58mm ESC/POS thermal printer
-- Raspberry Pi 4B
+- Netum 58mm ESC/POS thermal printer (https://amzn.to/43Vx9DT)
+- Raspberry Pi 4B (https://amzn.to/4ooA5jS)
+- 58mm Receipt Paper (https://amzn.to/4ag6q8Y)
 - Flask web framework
 - python-escpos library
 
